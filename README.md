@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Chi
 #### I am a final years student 
-![I am a final years student ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project, it very nice to meets other people.
+I made this profile, it very nice to meet other people.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
