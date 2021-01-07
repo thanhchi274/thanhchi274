@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 <!--
 **thanhchi274/thanhchi274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
